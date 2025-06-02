@@ -53,17 +53,6 @@ I am a Frontend Developer with **3+ years of experience** crafting **high-perfor
 
 ---
 
-## 🚀 Featured Projects
-
-| Project                                                | Description                                                                                                                      | Repo/Live Link                                            |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 🌐 **Creowis Home Website**                             | Migrated from Docusaurus to Next.js 14. SEO-optimized, headless Hashnode integration, open-source library launch with CEO.      | [github.com/MrTea7171/creowis-home](#)                    |
-| 🛒 **Conferro NFT-Ecommerce**                           | End-to-end frontend for NFT marketplace: landing page, authentication, buy/sell modules, Stripe & Airpay integration.            | [github.com/MrTea7171/conferro-frontend](#)               |
-| 📅 **Events Module (TypeScript + React)**               | Custom fields, draft POs, onboarding flows; refactored legacy code; collaborated with backend & PMs.                             | [github.com/MrTea7171/events-module](#)                   |
-| 📐 **Reusable Templates Feature**                        | Designed & scaled a reusable Templates system across multiple apps; performance-tuned with stakeholder collaboration.             | [github.com/MrTea7171/templates-feature](#)               |
-| 📄 **Next.js SEO Boilerplate**                           | Starter kit for SEO-optimized Next.js apps with Lighthouse improvements, meta tags, and sitemap generation.                     | [github.com/MrTea7171/nextjs-seo-boilerplate](#)          |
-| 📚 **Tech Blog (Headless Hashnode)**                     | Headless Hashnode integration examples and performance-oriented React articles; open-source code snippets for community reuse.   | [github.com/MrTea7171/tech-blog-hashnode](#)              |
-
 > You can view more repositories in my profile: [github.com/MrTea7171](https://github.com/MrTea7171?tab=repositories)
 
 ---
@@ -82,9 +71,8 @@ I am a Frontend Developer with **3+ years of experience** crafting **high-perfor
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YourLinkedInUsername)  
-- 🌐 [Personal Portfolio](https://your-portfolio-domain.com)  
-- 📧 Email: youremail@example.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chaitanyaag)  
+- 📧 Email: chaipanch98@gmail.com  
 
 ---
 
