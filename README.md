@@ -53,22 +53,6 @@ I am a Frontend Developer with **3+ years of experience** crafting **high-perfor
 
 ---
 
-> You can view more repositories in my profile: [github.com/MrTea7171](https://github.com/MrTea7171?tab=repositories)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- GitHub Readme Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MrTea7171&show_icons=true&theme=default&count_private=true" alt="MrTea7171’s GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTea7171&layout=compact&theme=default" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chaitanyaag)  
